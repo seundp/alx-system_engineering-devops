@@ -11,3 +11,4 @@ Write a script that sets the mode of the file
 Write a script that sets the mode of the file hello the same as olleh’s mode.
 current directory
 Create a script that creates a directory
+Write a script that changes the group owner
