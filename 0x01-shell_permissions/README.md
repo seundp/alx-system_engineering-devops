@@ -8,3 +8,4 @@ Write a script that adds execute permission to the owner and the group owner, an
 Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 James Bond
 Write a script that sets the mode of the file
+Write a script that sets the mode of the file hello the same as olleh’s mode.
