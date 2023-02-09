@@ -9,3 +9,4 @@ Write a script that adds execution permission to the owner, the group owner and 
 James Bond
 Write a script that sets the mode of the file
 Write a script that sets the mode of the file hello the same as olleh’s mode.
+current directory
