@@ -1,2 +1,4 @@
-#!/bin/bash
+:wq
+:
+
 chown --from=guillaume betty hello
