@@ -15,3 +15,4 @@ Write a script that changes the group owner
  Owner and group
 Symbolic links
 If only
+star wards
