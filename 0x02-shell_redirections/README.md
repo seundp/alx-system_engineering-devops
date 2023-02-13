@@ -1,2 +1,1 @@
-0. Hello World
-1. Confused smiley
+0x02-shell_redirections
