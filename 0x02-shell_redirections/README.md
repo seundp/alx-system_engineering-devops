@@ -12,3 +12,4 @@ Count that word
 what next
 i hate bins
 letter only please
+A to Z
