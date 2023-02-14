@@ -6,3 +6,4 @@ duplicate las line
 No more javascript
 make your directories count
 what new
+being perfect
