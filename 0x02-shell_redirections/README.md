@@ -10,3 +10,4 @@ being perfect
 it must be in that file
 Count that word
 what next
+i hate bins
